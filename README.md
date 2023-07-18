@@ -7,6 +7,8 @@
   <p float="left">
     <img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/salisbury.svg" width="200" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSF.svg/2048px-NSF.svg.png" width="200" /> 
+    <img src = "https://www.elon.edu/assets/img/university-communications/downloads/primary-signature/centered/elon-signature-primary-centered-maroon-gold-blk-rgb-300dpi.png" width="200"/>
+    <img src = "https://logos-download.com/wp-content/uploads/2019/11/Drew_University_Logo.png" width = "200"/>
   </p>
 </div>
 
