@@ -9,9 +9,6 @@
 <br>
 <br>
 
-<a name="custom_anchor_name"></a>
-# some header
-
 <div align = "center">
   <p float="left">
     <img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/salisbury.svg" width="200" />
@@ -33,10 +30,22 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 <hr>
 
 ![Table of Contents](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/tableofcontents.png)
-- Packages/Tools Used
-- Data
-- Methods
-- Results
+- [Packages & Tools Used](#packages)
+- [Data](#data)
+- [Methods](#methods)
+- [Results](#results)
 
-[click here to jump to my anchor](#custom_anchor_name)
+
+<a name="packages"></a>
+![packages](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/packages.png)
+
+<a name="data"></a>
+![data](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/data.png)
+
+<a name="methods"></a>
+![methods](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/methods.png)
+
+<a name="results"></a>
+![results](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/results.png)
+
 
