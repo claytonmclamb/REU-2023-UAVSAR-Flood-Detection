@@ -23,7 +23,11 @@
 
 ![Description](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/description.png)
 
-## Table of Contents
+Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusantium sapiente ut omnis cumque. Qui architecto velit et excepturi autem non consequatur temporibus vel autem voluptas eum corrupti perspiciatis! Eum nisi consectetur eos quia illo est unde ducimus eos fugiat laudantium cum earum eveniet quo repudiandae earum quo quam similique. Id accusamus cupiditate et aliquid provident non suscipit aliquid aut corporis atque qui veritatis itaque.
+
+<hr>
+
+![Table of Contents](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/tableofcontents.png)
 - Packages/Tools Used
 - Data
 - Methods
