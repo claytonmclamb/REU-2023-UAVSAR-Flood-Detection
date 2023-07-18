@@ -14,7 +14,7 @@
 
 <hr>
 
-## Description
+![Description](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/description.png)
 
 ## Table of Contents
 - Packages/Tools Used
