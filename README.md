@@ -41,6 +41,7 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 
 <a name="data"></a>
 ![data](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/data.png)
+The UAVSAR Imagery used in this dataset was extracted from NASA's Jet Propulation Labratory in the California Institute of Technology. The UAVSAR database includes 11,619 POLSAR products from 1,674 different flights. For this project we will be using SAR from the aftermath of Hurricane Florence. The two specific areas and dates on interest are Lumberton, NC from September 18 2018 (Flight 18069), and Cape Fear from September 22 2018 (Flight 18068).
 
 <a name="methods"></a>
 ![methods](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/methods.png)
