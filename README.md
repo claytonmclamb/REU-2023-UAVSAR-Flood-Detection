@@ -40,6 +40,22 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 <a name="packages"></a>
 ![packages](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/tools.png)
 
+
+| Tool | Use |
+| :---: | --------- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | test |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  | test |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | test |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | test |
+| <img src = "https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/assets/94720342/851cb85e-9c12-4864-80a7-851ba5c98e89" width = "60"> | test |
+| ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | test |
+| <img src = "https://pythonfix.com/pkg/r/rasterio/rasterio-banner.webp" width = "60"> | test |
+| <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width = "60"> | test |
+
+
+
+
+
 <hr>
 
 
