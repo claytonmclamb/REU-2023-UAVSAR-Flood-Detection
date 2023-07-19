@@ -40,9 +40,13 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 ![packages](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/tools.png)
 
 <a name="data"></a>
-![data](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/data.png)
-The UAVSAR Imagery used in this dataset was extracted from NASA's Jet Propulation Labratory in the California Institute of Technology. The UAVSAR database includes 11,619 POLSAR products from 1,674 different flights. For this project we will be using SAR from the aftermath of Hurricane Florence. The two specific areas and dates on interest are Lumberton, NC from September 18 2018 (Flight 18069), and Cape Fear from September 22 2018 (Flight 18068).
-
+![data](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/data.png) <br><br>
+The UAVSAR imagery used in our dataset was extracted from NASA's Jet Propulation Labratory's online UAVSAR imagery dataset. This dataset includes 11,619 POLSAR products from 1,674 different flights. The POL-SAR images include the HH, HV, and VV bands. For this project we will be using POL-SAR imagery from the aftermath of Hurricane Florence. The two specific areas and dates of interest are Lumberton, NC from September 18 2018 (Flight 18069), and Cape Fear, NC from September 22 2018 (Flight 18068). These dates were chosen to have a diverse enough dataset with a mix of a vareying flood levels.
+<br><br>
+Our dataset includes the images mentioned above along with hand labeled masks created with Label Studio. The segmentation masks are labeled 0 - No Water and 255 - Water, and was labeled with the aid of the NCONEMAP floodmap _Hurricane Florence Flood Extent Across the Piedmont and Coastal Plain of North Carolina_ as a reference. The data from NCONEMAP provides an estimate of inland flooding in North Carolina during Hurricane Florence. This work was able to detect flooded bodies of water by using a random forest classification model and by using pre- and post-storm SAR imagery from Sentinel-1, as well as general data on topography, and floodplains. The NCONEMAP model was trained with United States Geological Survey (USGS) and NCDEMS high-water marks. NCONEMAP was also cross referenced with high-resolution National Oceanic and Atmospheric Administration (NOAA) digital images.
+<br><br>
+Similarly to how the NCONEMAP flood map used NOAA digital images to serve as a guideline we too checked both our labeled masks and NCONEMAP with the digital imagery as a cross reference. Our dataset has a total of ____ images and masks.
+<br>
 <a name="methods"></a>
 ![methods](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/methods.png)
 
