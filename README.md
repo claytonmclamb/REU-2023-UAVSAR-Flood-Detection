@@ -51,6 +51,7 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | test |
 | <img src = "https://pythonfix.com/pkg/r/rasterio/rasterio-banner.webp" width = "60"> | test |
 | <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width = "60"> | test |
+| <img src = "https://user-images.githubusercontent.com/12534576/192582340-4c9e4401-1fe6-4dbb-95bb-fdbba5493f61.png" width = "100"> | test |
 
 
 
