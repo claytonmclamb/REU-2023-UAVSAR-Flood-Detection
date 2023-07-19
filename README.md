@@ -35,9 +35,13 @@ Lorem ipsum dolor sit amet. A provident omnis qui nesciunt molestiae ea accusant
 - [Methods](#methods)
 - [Results](#results)
 
+<hr>
 
 <a name="packages"></a>
 ![packages](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/tools.png)
+
+<hr>
+
 
 <a name="data"></a>
 ![data](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/data.png) <br><br>
@@ -47,8 +51,15 @@ Our dataset includes the images mentioned above along with hand labeled masks cr
 <br><br>
 Similarly to how the NCONEMAP flood map used NOAA digital images to serve as a guideline we too checked both our labeled masks and NCONEMAP with the digital imagery as a cross reference. Our dataset has a total of ____ images and masks.
 <br>
+
+<hr>
+
+
+
 <a name="methods"></a>
 ![methods](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/methods.png)
+
+<hr>
 
 <a name="results"></a>
 ![results](https://github.com/claytonmclamb/REU-2023-UAVSAR-Flood-Detection/blob/main/Images/results.png)
